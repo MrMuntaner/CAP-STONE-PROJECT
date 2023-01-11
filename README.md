@@ -9,7 +9,7 @@ Authors: Leo Muntaner
 
 Notebooks Folder
 
-- For a detailed overview of the complete analysis and predictions please reference the [Final_Capstone](CAPSTONE-3.ipynb). 
+- For a detailed overview of the complete analysis and predictions please reference the [Final_Capstone](CAPSTONE-4.ipynb). 
 
 Data Folder
 
@@ -20,7 +20,7 @@ Data Folder
 I conducted a series of analyses to predict the solubility of molecules based on 4 descriptors. My results lead to the following suggestions:
 
 1. Aim at using the Delaney descriptors to achieve great results. 
-2. Use the solubility of molecules that range from less than 1 to 30. 
+2. Use the Extra Trees Regressor algorithm for best model performance. 
 
 The presentation for this project can be found [here.](Presentation.pdf)
 
@@ -60,17 +60,17 @@ Feature Engineering:
 
 ## Programming Methods
 
-Language: Python 3.10.8
+Language: Python 3.10.8 and 3.8 (Only for CAPTSTONE-4 notebook)
 
 Major Packages and Version Numbers can be found [here.](requirements.txt)
     
 ## Data Science and Machine Learning Model
 
-For this portion of the project I used Linear Regression. I decided to use a linear regression model because my Y variable is quatitative. In my experience this model tends to be the most straigh forward solution. 
+For this portion of the project I used Linear Regression as my base model. I then comapred it to other models to see which one would be the most optimal. I decided to use Extra Trees Regressor model because after model testing was done, it was the best performer.
 
 The model aims at predicting the soluability of molecules.
 
-To evaluate the model performance, I will use the R^2 and MSE.
+To evaluate the model performance, I will use MAE, R^2, MSE and RMSE.
 
 ## Streamlit Web App:
 
@@ -96,3 +96,4 @@ Based on my analyses and ML prediction I suggest the following actions:
 
 1. Aim at sticking to the Delaney descriptors to get the best predictions. 
 2. Use Molecules with the lowest solubility to achieve faster drug development, particularly those intended for oral or transdermal administration.
+3. Use Extra Trees Regressor model for the best performance and predictions. 
