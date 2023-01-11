@@ -8,3 +8,4 @@ ipywidgets: 7.5.1
 Pillow: 9.4.0
 scikit-learn 1.2.0
 rdkit: 2022.9.3
+pycaret: 2.3.10
