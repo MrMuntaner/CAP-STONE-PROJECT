@@ -79,7 +79,7 @@ This web application will take the query(input) molecule and then use the rdkit 
 
 This is a super basic web app that visualizes the ML model predictions.
 
-For a detailed overview of the complete web app please reference [Final_Capstone](sol_app.py). 
+For a detailed overview of the complete web app please reference sol_app.py file [here](Final_Capstone) 
 
 # Application Structure:
 
