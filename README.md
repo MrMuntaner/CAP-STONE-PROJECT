@@ -9,7 +9,7 @@ Authors: Leo Muntaner
 
 Notebooks Folder
 
-- For a detailed overview of the complete analysis and predictions please go [here.](Final_Capstone). 
+- For a detailed overview of the complete analysis and predictions please go [here.](Final_Capstone) 
 
 Data Folder
 
@@ -79,7 +79,7 @@ This web application will take the query(input) molecule and then use the rdkit 
 
 This is a super basic web app that visualizes the ML model predictions.
 
-For a detailed overview of the complete web app please reference the [Final_Capstone](sol_app.py). 
+For a detailed overview of the complete web app please reference [Final_Capstone](sol_app.py). 
 
 # Application Structure:
 
