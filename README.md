@@ -9,7 +9,7 @@ Authors: Leo Muntaner
 
 Notebooks Folder
 
-- For a detailed overview of the complete analysis and predictions please reference the [Final_Capstone](CAPSTONE-4.ipynb). 
+- For a detailed overview of the complete analysis and predictions please reference the [Final_Capstone](CAPSTONE-3.ipynb). 
 
 Data Folder
 
