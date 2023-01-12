@@ -22,7 +22,7 @@ I conducted a series of analyses to predict the solubility of molecules based on
 1. Aim at using the Delaney descriptors to achieve great results. 
 2. Use the Extra Trees Regressor algorithm for best model performance. 
 
-The presentation for this project can be found here [Presentation.]
+The presentation for this project can be found [here.](Presentation)
 
 # Business Understanding
 
