@@ -60,8 +60,7 @@ Feature Engineering:
 
 ## Programming Methods
 
-Language: Python 3.10.8 
-          Python 3.8 for `CAPTSTONE-4 notebook`
+Language: Python 3.10.8 (Python 3.8 for `CAPTSTONE-4 notebook`)
 
 Major Packages and Version Numbers can be found [here.](requirements.txt)
     
