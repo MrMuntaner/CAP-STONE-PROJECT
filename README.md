@@ -60,13 +60,14 @@ Feature Engineering:
 
 ## Programming Methods
 
-Language: Python 3.10.8 and 3.8 for `CAPTSTONE-4 notebook`
+Language: Python 3.10.8 
+          Python 3.8 for `CAPTSTONE-4 notebook`
 
 Major Packages and Version Numbers can be found [here.](requirements.txt)
     
 ## Data Science and Machine Learning Model
 
-For this portion of the project I used Linear Regression as my base model. I then comapred it to other models to see which one would be the most optimal. I decided to use Extra Trees Regressor model because after model testing was done, it was the best performer.
+For this portion of the project I used Linear Regression as my base model. I then comapred it to other models to see which one would be the most optimal. I decided to use the Extra Trees Regressor model because after model testing was done, it was the best performer.
 
 The model aims at predicting the soluability of molecules.
 
